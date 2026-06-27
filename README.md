@@ -11,8 +11,10 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Jyotishaaryan/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -90,6 +91,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -100,6 +102,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -121,4 +124,8 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
@@ -128,4 +131,5 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
+| [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

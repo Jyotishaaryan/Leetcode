@@ -21,6 +21,6 @@ public:
         }
     }
     int countGoodNumbers(long long n) {
-        return ((long long)solve(5,(n+1)/2)*solve(4,(n)/2))%M;
+        return ((long long)solve(5,(n+1)/2)*solve(4,n/2))%M;
     }
 };

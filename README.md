@@ -27,6 +27,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/Jyotishaaryan/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jyotishaaryan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
@@ -100,6 +101,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0022-generate-parentheses](https://github.com/Jyotishaaryan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation

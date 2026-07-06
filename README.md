@@ -35,6 +35,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0152-maximum-product-subarray](https://github.com/Jyotishaaryan/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
+| [0904-fruit-into-baskets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -119,6 +120,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
+| [0904-fruit-into-baskets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
@@ -157,6 +159,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |

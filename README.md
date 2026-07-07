@@ -55,6 +55,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Jyotishaaryan/Leetcode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,4 +180,8 @@ I am pushing all my leetcode solutions here in this repository.
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Jyotishaaryan/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

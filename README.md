@@ -28,6 +28,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -55,6 +56,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Jyotishaaryan/Leetcode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0704-binary-search) |

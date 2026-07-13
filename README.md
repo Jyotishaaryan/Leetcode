@@ -10,6 +10,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0008-string-to-integer-atoi](https://github.com/Jyotishaaryan/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Jyotishaaryan/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jyotishaaryan/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -35,6 +36,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/Jyotishaaryan/Leetcode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jyotishaaryan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
@@ -124,6 +126,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -156,6 +159,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -169,6 +173,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |

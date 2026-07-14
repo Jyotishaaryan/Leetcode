@@ -1,27 +1,25 @@
 class Solution {
 public:
-    void vS(int n, int last, string ans,vector<string>&res) {
-        if(n==0)
+    void solve(int n , string ans, vector<string> &res)
+    {
+        if(ans.size() == n)
         {
-           res.push_back(ans);
-           return;
-            
+            res.push_back(ans);
+            return;
         }
-        if(last!=0)
+        solve(n , ans + '1', res);
+        if(ans.empty() || ans.back() != '0')
         {
-            vS(n-1,0,ans+'0',res);
-            vS(n-1,1,ans+'1',res);
-        }
-        else
-        {
-            vS(n-1,1,ans+'1',res);
+            solve(n , ans + '0', res);
 
         }
+        
     }
     vector<string> validStrings(int n) {
         vector<string> res;
-        
-        vS(n,1,"",res);
+        string ans = "";
+        solve(n , ans , res);
         return res;
+        
     }
 };

@@ -32,6 +32,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Jyotishaaryan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -141,6 +142,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Jyotishaaryan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Jyotishaaryan/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
@@ -175,6 +177,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jyotishaaryan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |

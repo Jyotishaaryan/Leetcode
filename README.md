@@ -165,6 +165,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -185,6 +186,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jyotishaaryan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -213,4 +215,12 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Jyotishaaryan/Leetcode/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -1,30 +1,41 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
+         vector<int> freq(26, 0);
         
-        int n = s.size();
-        int l=0;
-        int r=0;
-        int len=0;
-        int maxf=0;
-        int hash[26] = {0};
-        while(r < n)
-        {
-            hash[s[r] - 'A']++;
-            maxf = max(maxf , hash[s[r] - 'A']);
+        // Left and right pointers of sliding window
+        int left = 0, right = 0;
 
-            if((r-l+1) - maxf > k)
-            {
-                hash[s[l]-'A']--;
-                maxf = 0;
-                l = l+1; 
+        // Tracks the count of the most frequent character in current window
+        int maxCount = 0;
+
+        // Stores the maximum length of valid window
+        int maxLength = 0;
+
+        // Iterate through the string with right pointer
+        while (right < s.size()) {
+
+            // Increment the frequency of current character
+            freq[s[right] - 'A']++;
+
+            // Update maxCount with the max frequency seen so far
+            maxCount = max(maxCount, freq[s[right] - 'A']);
+
+            // If the current window needs more than k replacements, move left
+            while ((right - left + 1) - maxCount > k) {
+                freq[s[left] - 'A']--;
+                left++;
             }
-            if((r-l+1) - maxf <= k)
-            {
-               len = max(len , r-l+1); 
-            }
-            r++;
+
+            // Update the maximum window length
+            maxLength = max(maxLength, right - left + 1);
+            
+            // Move right pointer forward
+            right++;
         }
-        return len;
+
+        // Return the maximum valid window length
+        return maxLength;
+        
     }
 };

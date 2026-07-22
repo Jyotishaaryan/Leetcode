@@ -176,6 +176,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
@@ -226,6 +227,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -235,6 +237,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |

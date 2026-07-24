@@ -24,6 +24,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jyotishaaryan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +143,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0078-subsets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,4 +260,8 @@ I am pushing all my leetcode solutions here in this repository.
 | [0145-binary-tree-postorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->

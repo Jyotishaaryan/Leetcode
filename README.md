@@ -25,6 +25,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jyotishaaryan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jyotishaaryan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

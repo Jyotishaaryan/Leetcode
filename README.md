@@ -21,6 +21,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -48,6 +49,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0152-maximum-product-subarray](https://github.com/Jyotishaaryan/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
@@ -103,6 +105,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |

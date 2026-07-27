@@ -13,6 +13,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotishaaryan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -145,6 +146,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -189,6 +191,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jyotishaaryan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -262,6 +265,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jyotishaaryan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -276,6 +280,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jyotishaaryan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration

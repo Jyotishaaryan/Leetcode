@@ -18,6 +18,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotishaaryan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -30,6 +31,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jyotishaaryan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -328,6 +330,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
 |  |
 | ------- |

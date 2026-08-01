@@ -27,6 +27,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
@@ -40,6 +41,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
@@ -59,6 +61,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Jyotishaaryan/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0704-binary-search) |
@@ -81,6 +84,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Jyotishaaryan/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -348,4 +352,8 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyotishaaryan/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

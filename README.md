@@ -309,6 +309,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -331,6 +332,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
@@ -360,4 +362,8 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jyotishaaryan/Leetcode/tree/master/0877-stone-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

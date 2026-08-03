@@ -78,6 +78,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jyotishaaryan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -102,6 +103,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0704-binary-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +345,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -373,4 +378,5 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

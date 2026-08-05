@@ -239,6 +239,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Jyotishaaryan/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,10 +253,12 @@ I am pushing all my leetcode solutions here in this repository.
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [3310-remove-methods-from-project](https://github.com/Jyotishaaryan/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [3310-remove-methods-from-project](https://github.com/Jyotishaaryan/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |

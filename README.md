@@ -21,6 +21,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -37,6 +38,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jyotishaaryan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -180,6 +182,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,12 +383,14 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |

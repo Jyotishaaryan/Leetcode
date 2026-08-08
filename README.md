@@ -21,6 +21,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -97,6 +98,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jyotishaaryan/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,6 +393,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |

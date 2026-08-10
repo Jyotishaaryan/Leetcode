@@ -35,6 +35,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -101,6 +102,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0877-stone-game](https://github.com/Jyotishaaryan/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -417,6 +419,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0877-stone-game](https://github.com/Jyotishaaryan/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -449,8 +452,18 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Jyotishaaryan/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

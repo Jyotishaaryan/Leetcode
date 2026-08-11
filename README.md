@@ -80,6 +80,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
@@ -217,6 +218,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -255,6 +257,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Jyotishaaryan/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -356,6 +359,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -388,6 +392,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Enumeration
 |  |

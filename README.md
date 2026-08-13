@@ -18,6 +18,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotishaaryan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jyotishaaryan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -87,6 +88,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jyotishaaryan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jyotishaaryan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jyotishaaryan/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +137,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jyotishaaryan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -144,6 +147,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Jyotishaaryan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sorting
 |  |
 | ------- |

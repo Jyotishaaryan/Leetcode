@@ -266,6 +266,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0662-maximum-width-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Jyotishaaryan/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -371,6 +372,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Jyotishaaryan/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -406,6 +408,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Jyotishaaryan/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |

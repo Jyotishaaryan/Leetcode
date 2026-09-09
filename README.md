@@ -58,6 +58,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [3536-maximum-product-of-two-digits](https://github.com/Jyotishaaryan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jyotishaaryan/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Jyotishaaryan/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |

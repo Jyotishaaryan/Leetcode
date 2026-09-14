@@ -37,6 +37,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Jyotishaaryan/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Jyotishaaryan/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -572,4 +573,8 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jyotishaaryan/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jyotishaaryan/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

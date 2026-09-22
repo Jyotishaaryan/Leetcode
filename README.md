@@ -60,6 +60,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jyotishaaryan/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jyotishaaryan/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Jyotishaaryan/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -122,6 +123,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Jyotishaaryan/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotishaaryan/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jyotishaaryan/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jyotishaaryan/Leetcode/tree/master/3731-find-missing-elements) |
@@ -180,6 +182,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jyotishaaryan/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |

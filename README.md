@@ -15,6 +15,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotishaaryan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -234,6 +235,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyotishaaryan/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

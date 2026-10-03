@@ -87,6 +87,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Jyotishaaryan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/Jyotishaaryan/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
@@ -144,6 +145,7 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jyotishaaryan/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Jyotishaaryan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Jyotishaaryan/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -242,6 +244,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jyotishaaryan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyotishaaryan/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -378,6 +381,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jyotishaaryan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jyotishaaryan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyotishaaryan/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -391,6 +395,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jyotishaaryan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jyotishaaryan/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |

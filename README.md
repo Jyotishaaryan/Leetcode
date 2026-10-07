@@ -15,6 +15,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Jyotishaaryan/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotishaaryan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -266,6 +267,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0131-palindrome-partitioning](https://github.com/Jyotishaaryan/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Jyotishaaryan/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Jyotishaaryan/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotishaaryan/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -362,6 +364,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Jyotishaaryan/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Jyotishaaryan/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0623-add-one-row-to-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |

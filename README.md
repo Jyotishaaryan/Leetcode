@@ -115,6 +115,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0904-fruit-into-baskets](https://github.com/Jyotishaaryan/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -223,6 +224,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -260,6 +262,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotishaaryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyotishaaryan/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

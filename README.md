@@ -88,6 +88,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Jyotishaaryan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
@@ -289,6 +290,7 @@ I am pushing all my leetcode solutions here in this repository.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Jyotishaaryan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |

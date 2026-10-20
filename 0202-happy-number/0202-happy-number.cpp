@@ -22,6 +22,6 @@ public:
             fast = getNext(getNext(fast));
         } while (slow != fast);
 
-        return fast == 1;
+        return slow == 1;
     }
 };

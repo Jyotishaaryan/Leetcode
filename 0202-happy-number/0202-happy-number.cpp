@@ -6,8 +6,8 @@ public:
 
         while (n > 0) {
             int digit = n % 10;
-            sum += digit * digit;
             n /= 10;
+            sum += digit * digit;
         }
 
         return sum;

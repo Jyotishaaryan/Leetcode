@@ -263,6 +263,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0042-trapping-rain-water](https://github.com/Jyotishaaryan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Jyotishaaryan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jyotishaaryan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotishaaryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -308,6 +309,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jyotishaaryan/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Jyotishaaryan/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Jyotishaaryan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jyotishaaryan/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jyotishaaryan/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0652-find-duplicate-subtrees](https://github.com/Jyotishaaryan/Leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -582,6 +584,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyotishaaryan/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Jyotishaaryan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -671,4 +674,5 @@ I am pushing all my leetcode solutions here in this repository.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jyotishaaryan/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

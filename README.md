@@ -127,6 +127,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Jyotishaaryan/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jyotishaaryan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -384,6 +385,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jyotishaaryan/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Jyotishaaryan/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -402,6 +404,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Jyotishaaryan/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Jyotishaaryan/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -414,6 +417,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0036-valid-sudoku](https://github.com/Jyotishaaryan/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jyotishaaryan/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jyotishaaryan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -688,4 +692,8 @@ I am pushing all my leetcode solutions here in this repository.
 | [0141-linked-list-cycle](https://github.com/Jyotishaaryan/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Jyotishaaryan/Leetcode/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->

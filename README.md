@@ -155,6 +155,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [3525-find-x-value-of-array-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jyotishaaryan/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Jyotishaaryan/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Jyotishaaryan/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotishaaryan/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jyotishaaryan/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jyotishaaryan/Leetcode/tree/master/3731-find-missing-elements) |
@@ -188,6 +189,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jyotishaaryan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyotishaaryan/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/Jyotishaaryan/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Jyotishaaryan/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -433,6 +435,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Jyotishaaryan/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jyotishaaryan/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3665-twisted-mirror-path-count](https://github.com/Jyotishaaryan/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Jyotishaaryan/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |

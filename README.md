@@ -54,6 +54,7 @@ I am pushing all my leetcode solutions here in this repository.
 | ------- |
 | [0050-powx-n](https://github.com/Jyotishaaryan/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Jyotishaaryan/Leetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jyotishaaryan/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Jyotishaaryan/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -114,6 +115,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0152-maximum-product-subarray](https://github.com/Jyotishaaryan/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jyotishaaryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jyotishaaryan/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Jyotishaaryan/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotishaaryan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |

@@ -133,6 +133,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [1140-stone-game-ii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Jyotishaaryan/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Jyotishaaryan/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jyotishaaryan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -206,6 +207,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0493-reverse-pairs](https://github.com/Jyotishaaryan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Jyotishaaryan/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jyotishaaryan/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jyotishaaryan/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -250,6 +252,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0912-sort-an-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Jyotishaaryan/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jyotishaaryan/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -293,6 +296,7 @@ I am pushing all my leetcode solutions here in this repository.
 | [0344-reverse-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyotishaaryan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jyotishaaryan/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Jyotishaaryan/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jyotishaaryan/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jyotishaaryan/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jyotishaaryan/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
